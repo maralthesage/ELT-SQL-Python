@@ -23,16 +23,6 @@ requirements.txt
 
 ````
 
-## Setup
-
-```bash
-git clone https://github.com/maralthesage/ELT-SQL-Python.git
-cd ELT-SQL-Python
-
-python -m venv .venv
-source .venv/bin/activate   # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-````
 
 ## Usage
 
